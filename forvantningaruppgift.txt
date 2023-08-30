@@ -1,0 +1,14 @@
+Inför Python grundkurs
+
+
+Vad förväntar du dig av kursen?
+
+Jag vill kunna göra organiserade och snygga program i python som hjälper mig att lösa uppgifter, 
+jag vill få hjälp i form av uppgifter som kommer att hjälpa mig att nå en bra grundlig nivå inom språket. 
+Jag lär mig också gärna inom vilka områden som python ofta används och varför det används för AI utveckling.
+
+
+Vad kan du sedan tidigare?
+
+Tidigare så har jag programmerat grundligt inom flera språk såsom C, C#, webbutveckling (html, css, bootstrap).
+Jag kan syntaxer och grundläggande tekniker inom flera programmeringsspråk. 
